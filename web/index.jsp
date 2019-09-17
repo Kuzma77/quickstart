@@ -11,7 +11,6 @@
     <title>Title</title>
   </head>
   <body>
-  $END$
-  <a href="my.html">个人中心</href>
+hello Web
   </body>
 </html>
